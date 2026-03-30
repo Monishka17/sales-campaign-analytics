@@ -1,0 +1,51 @@
+campaign_id,campaign_name,channel,campaign_type,region,start_date,end_date,budget_usd
+CAMP_001,South Display Loyalty #1,Display,Loyalty,South,2023-04-02,2023-04-30,10000
+CAMP_002,East Paid Search Awareness #2,Paid Search,Awareness,East,2023-07-16,2023-09-01,30000
+CAMP_003,Central Referral Awareness #3,Referral,Awareness,Central,2023-09-08,2023-10-04,20000
+CAMP_004,South Referral Upsell #4,Referral,Upsell,South,2023-07-11,2023-08-18,30000
+CAMP_005,West Paid Search Retargeting #5,Paid Search,Retargeting,West,2023-04-02,2023-05-22,15000
+CAMP_006,North Email Upsell #6,Email,Upsell,North,2023-08-29,2023-10-02,20000
+CAMP_007,Central Email Conversion #7,Email,Conversion,Central,2023-01-04,2023-02-14,10000
+CAMP_008,North Social Media Upsell #8,Social Media,Upsell,North,2023-08-25,2023-10-11,10000
+CAMP_009,North Referral Loyalty #9,Referral,Loyalty,North,2023-07-03,2023-07-25,10000
+CAMP_010,Central Paid Search Loyalty #10,Paid Search,Loyalty,Central,2023-04-01,2023-05-17,30000
+CAMP_011,North Paid Search Awareness #11,Paid Search,Awareness,North,2023-01-12,2023-02-05,20000
+CAMP_012,West Display Awareness #12,Display,Awareness,West,2023-02-14,2023-03-09,15000
+CAMP_013,West Referral Awareness #13,Referral,Awareness,West,2023-06-18,2023-07-10,25000
+CAMP_014,North Display Retargeting #14,Display,Retargeting,North,2023-04-19,2023-05-31,15000
+CAMP_015,South Referral Loyalty #15,Referral,Loyalty,South,2023-07-01,2023-08-28,20000
+CAMP_016,Central Email Retargeting #16,Email,Retargeting,Central,2023-03-19,2023-05-10,20000
+CAMP_017,North Email Awareness #17,Email,Awareness,North,2023-03-15,2023-04-16,10000
+CAMP_018,South Paid Search Loyalty #18,Paid Search,Loyalty,South,2023-04-17,2023-06-05,15000
+CAMP_019,East Display Retargeting #19,Display,Retargeting,East,2023-03-02,2023-04-08,10000
+CAMP_020,East Email Upsell #20,Email,Upsell,East,2023-01-06,2023-02-26,5000
+CAMP_021,West Social Media Retargeting #21,Social Media,Retargeting,West,2023-07-24,2023-08-28,20000
+CAMP_022,East Display Loyalty #22,Display,Loyalty,East,2023-10-01,2023-10-20,10000
+CAMP_023,West Email Conversion #23,Email,Conversion,West,2023-08-16,2023-09-13,15000
+CAMP_024,North Paid Search Conversion #24,Paid Search,Conversion,North,2023-06-10,2023-07-07,30000
+CAMP_025,East Paid Search Loyalty #25,Paid Search,Loyalty,East,2023-08-13,2023-09-01,20000
+CAMP_026,North Display Conversion #26,Display,Conversion,North,2023-09-15,2023-10-17,30000
+CAMP_027,Central Social Media Loyalty #27,Social Media,Loyalty,Central,2023-03-07,2023-04-06,20000
+CAMP_028,Central Social Media Loyalty #28,Social Media,Loyalty,Central,2023-03-23,2023-04-24,20000
+CAMP_029,West Referral Upsell #29,Referral,Upsell,West,2023-04-10,2023-05-18,15000
+CAMP_030,North Paid Search Conversion #30,Paid Search,Conversion,North,2023-07-01,2023-08-28,15000
+CAMP_031,East Paid Search Retargeting #31,Paid Search,Retargeting,East,2023-08-02,2023-09-30,10000
+CAMP_032,West Display Conversion #32,Display,Conversion,West,2023-01-02,2023-01-23,25000
+CAMP_033,North Referral Retargeting #33,Referral,Retargeting,North,2023-09-25,2023-10-28,30000
+CAMP_034,West Paid Search Upsell #34,Paid Search,Upsell,West,2023-04-16,2023-05-16,30000
+CAMP_035,Central Display Loyalty #35,Display,Loyalty,Central,2023-09-29,2023-11-22,25000
+CAMP_036,South Referral Conversion #36,Referral,Conversion,South,2023-01-11,2023-01-31,15000
+CAMP_037,North Email Upsell #37,Email,Upsell,North,2023-01-30,2023-03-11,15000
+CAMP_038,Central Social Media Upsell #38,Social Media,Upsell,Central,2023-10-22,2023-11-23,10000
+CAMP_039,West Email Loyalty #39,Email,Loyalty,West,2023-03-30,2023-04-29,20000
+CAMP_040,South Social Media Retargeting #40,Social Media,Retargeting,South,2023-08-17,2023-10-14,30000
+CAMP_041,Central Display Loyalty #41,Display,Loyalty,Central,2023-04-02,2023-05-09,15000
+CAMP_042,West Paid Search Conversion #42,Paid Search,Conversion,West,2023-10-21,2023-12-18,20000
+CAMP_043,Central Paid Search Loyalty #43,Paid Search,Loyalty,Central,2023-09-01,2023-10-27,10000
+CAMP_044,South Email Upsell #44,Email,Upsell,South,2023-08-24,2023-10-10,5000
+CAMP_045,West Email Conversion #45,Email,Conversion,West,2023-02-06,2023-03-13,30000
+CAMP_046,Central Email Upsell #46,Email,Upsell,Central,2023-05-21,2023-07-14,5000
+CAMP_047,West Referral Conversion #47,Referral,Conversion,West,2023-05-14,2023-06-07,10000
+CAMP_048,West Referral Awareness #48,Referral,Awareness,West,2023-01-19,2023-02-05,15000
+CAMP_049,Central Referral Retargeting #49,Referral,Retargeting,Central,2023-05-30,2023-06-23,20000
+CAMP_050,South Email Loyalty #50,Email,Loyalty,South,2023-04-07,2023-04-28,20000
